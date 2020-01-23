@@ -1,1 +1,1 @@
-# alg_num2
+# algorytmy numeryczne Projekt 2
